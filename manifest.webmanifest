@@ -1,0 +1,16 @@
+{
+  "name": "Nine & Seven",
+  "short_name": "Nine & Seven",
+  "description": "A twice-daily medicine reminder that rings at 9 AM and 7 PM.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F1F6",
+  "theme_color": "#4A46A8",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
